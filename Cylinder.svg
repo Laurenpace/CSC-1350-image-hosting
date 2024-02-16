@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="123.013309pt" height="145.20819pt" viewBox="0 0 123.013309 145.20819">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,-139.4939,673.6305)" d="M139.4939 528.4223H262.5072V673.6305H139.4939Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M42.52022 0C42.52022 7.82784 23.48355 14.17339 0 14.17339-23.48355 14.17339-42.52022 7.82784-42.52022 0-42.52022-7.82784-23.48355-14.17339 0-14.17339 23.48355-14.17339 42.52022-7.82784 42.52022 0ZM0 0"/>
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M-42.5202 0V-85.04042"/>
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M42.5202 0V-85.04042"/>
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M42.52022-85.04042C42.52022-77.21257 23.48355-70.86702 0-70.86702-23.48355-70.86702-42.52022-77.21257-42.52022-85.04042-42.52022-92.86827-23.48355-99.21382 0-99.21382 23.48355-99.21382 42.52022-92.86827 42.52022-85.04042ZM0-85.04042"/>
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M42.5202 0H.45827"/>
+<path transform="matrix(-1,-0,0,1,52.395376,20.804505)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-1.19551 1.59401C-1.09587 .99626 0 .09961 .29886 0 0-.09961-1.09587-.99626-1.19551-1.59401"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-656.345" x="210.305">r</tspan></text>
+<path transform="matrix(1,0,0,-1,51.937105,20.804505)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M56.69362-85.04042V-.45827"/>
+<path transform="matrix(0,-1,-1,-0,108.63072,21.262774)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-1.19551 1.59401C-1.09587 .99626 0 .09961 .29886 0 0-.09961-1.09587-.99626-1.19551-1.59401"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-606.847" x="251.644">h</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMR10"><tspan y="-535.385" x="157.676 164.32106 169.30236 172.07196 177.61116 185.91 193.65096">Volume=</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-535.385" x="204.16899 210.20633">&#x03c0;r</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="6.9738" font-family="CMR7"><tspan y="-539" x="214.97699">2</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-535.385" x="219.44599">h</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -139.4939 673.6305)" font-size="9.9626" font-family="CMR10"><tspan y="-89.365" x="303.133">1</tspan></text>
+</g>
+</svg>
