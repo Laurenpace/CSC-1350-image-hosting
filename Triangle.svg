@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="204.373pt" height="174.753pt" viewBox="0 0 204.373 174.753">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,174.753)" d="M0 0H204.373V174.753H0Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,17.019,151.142)" stroke-width=".19925" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M0 0V0H170.0445L85.02223 127.5334Z"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-13.283" x="13.283">A</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-13.283" x="183.033">B</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-154.662" x="98.124">C</tspan></text>
+<path transform="matrix(1,0,0,-1,17.019,151.142)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M21.26009 0C21.26009 7.10667 17.70522 13.74686 11.79236 17.6887"/>
+<path transform="matrix(1,0,0,-1,17.019,151.142)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M158.2521 17.6887C152.3393 13.74686 148.7844 7.10667 148.7844 0"/>
+<path transform="matrix(1,0,0,-1,17.019,151.142)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M73.22986 109.8446C80.36974 105.0848 89.67471 105.0848 96.81459 109.8446"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-36.257" x="43.273">A</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-36.257" x="153.043">B</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-113.723" x="98.124">C</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-15.802" x="99.885">c</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-90.896" x="148.071">a</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 174.753)" font-size="9.9626" font-family="CMMI10" font-style="italic"><tspan y="-90.896" x="51.734">b</tspan></text>
+</g>
+</svg>
